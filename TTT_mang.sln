@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTT_mang.Android", "TTT_mang.Android\TTT_mang.Android.csproj", "{DEA4F19E-F226-45FB-A959-11F7E7D0BC7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTT_mang", "TTT_mang\TTT_mang.csproj", "{570B0B52-EE9E-4FE0-BAB4-8ACFA363572D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA4F19E-F226-45FB-A959-11F7E7D0BC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA4F19E-F226-45FB-A959-11F7E7D0BC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA4F19E-F226-45FB-A959-11F7E7D0BC7D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DEA4F19E-F226-45FB-A959-11F7E7D0BC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA4F19E-F226-45FB-A959-11F7E7D0BC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA4F19E-F226-45FB-A959-11F7E7D0BC7D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{570B0B52-EE9E-4FE0-BAB4-8ACFA363572D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570B0B52-EE9E-4FE0-BAB4-8ACFA363572D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570B0B52-EE9E-4FE0-BAB4-8ACFA363572D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{570B0B52-EE9E-4FE0-BAB4-8ACFA363572D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570B0B52-EE9E-4FE0-BAB4-8ACFA363572D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570B0B52-EE9E-4FE0-BAB4-8ACFA363572D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1664D4E9-FF6E-4B60-80A7-B972899B502B}
+	EndGlobalSection
+EndGlobal
